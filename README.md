@@ -1,6 +1,6 @@
 ## Hi there 👋 I'am D4rkC4rl 
 
-- 🌱 I’m currently learning all about IT
+- 🌱 I’m currently learning Mobile App development with flutter
 - 📫 How to reach me: all my link is here https://about.me/D4rkC4rl
 
 Cybersecurity, Development & Web3.0 Explorer: Because securing the future starts with understanding it… and maybe breaking a few things along the way (ethically, of course).  
