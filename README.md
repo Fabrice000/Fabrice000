@@ -34,6 +34,9 @@ Because chaos is exciting, but order is rewarding. Balancing both through develo
 If this README sounds enigmatic, that’s the point. I’m like a blockchain smart contract—transparent but hard to fully understand unless you read the code. 
   ### - 😈 : Ah by the way I'm still looking for myself
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabrice000&label=Profile%20views&color=0e75b6&style=flat" alt="Fabrice000" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fabrice000" alt="Fabrice000" /></a> </p>
 <!--
 **Fabrice000/Fabrice000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
