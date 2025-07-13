@@ -1,15 +1,21 @@
 <br>
 <img src="./hello.jpeg" width="300">
 </br>
-## Hi there 👋 I'am D4rkC4rl 
 
-# 👨‍💻 Who am I?
-A versatile tech enthusiast navigating the realms of cybersecurity, development, and now Web3.0. Whether it's securing systems, coding solutions, or diving into blockchain mysteries, I thrive on solving puzzles no one else wants to touch.  
+# I'am D4rkC4rl 
+- 🥷 Red Teamer
+- 🛡️ Blue Defender
+- 🏴 CTF Addict
+- 🐞 Bug Bounty Hunter
+- 🇧🇯 #1 on TryHackMe
+- Stealth-driven. Ethically rooted
+-  Tactically limitless.
+   ## 👨‍💻 Who am I?
+   A versatile tech enthusiast navigating the realms of cybersecurity and  development. Whether it's securing systems or         coding solutions, I thrive on solving puzzles no one else wants to touch.  
 
 # 📚 Key Skills:
 - 💻 Development: front-end, back-end, scripts—you name it, I’ll code it.  
-- 🔍 Cybersecurity: detecting vulnerabilities, securing systems, and annoying hackers.  
-- 🌐 Web3.0: diving into blockchain, smart contracts, and the decentralized universe.  
+- 🔍 Cybersecurity: detecting vulnerabilities, securing systems, and annoying hackers. 
 - 🚀 Adaptability: Give me a challenge, I’ll find a solution (with or without sleep).  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabrice000&label=Profile%20views&color=0e75b6&style=flat" alt="Fabrice000" /> </p>
