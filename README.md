@@ -4,7 +4,7 @@
 A versatile tech enthusiast navigating the realms of cybersecurity, development, and now Web3.0. Whether it's securing systems, coding solutions, or diving into blockchain mysteries, I thrive on solving puzzles no one else wants to touch.  
 <a href="https://twitter.com/m4lici0u5"><img src="https://img.shields.io/twitter/follow/m4lici0u5?label=Twitter&style=social" alt="Twitter"></a>
 <br>
-<img src="../assets/hello.jpeg" width="300">
+<img src="./hello.jpeg" width="300">
 </br>
 # 📚 Key Skills:
 - 💻 Development: front-end, back-end, scripts—you name it, I’ll code it.  
