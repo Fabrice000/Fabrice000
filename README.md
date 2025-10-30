@@ -6,7 +6,7 @@
 - 🥷 Red Teamer
 - 🛡️ Blue Defender
 - 🏴 CTF Addict
-- 🐞 Bug Bounty Hunter
+- 🐞 Bug  Hunter
 - 🇧🇯 #1 on TryHackMe
 - Stealth-driven. Ethically rooted
 -  Tactically limitless.
