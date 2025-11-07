@@ -2,7 +2,7 @@
 <img src="./hello.jpeg" width="300">
 </br>
 
-# I'am D4rkC4rl 
+# I'm D4rkC4rl 
 - 🥷 Red Teamer
 - 🛡️ Blue Defender
 - 🏴 CTF Addict
