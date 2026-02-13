@@ -3,10 +3,10 @@
 </br>
 ┌──[ D4rkC4rl ]──[ 🐧 ]</br>
 │</br>
-│  Status       : Evolving in the shadows</br>
-│  Target      :  World-Class Level</br>
-│  Nindô       : Don't learn to hack, hack to learn</br>
-│  whoami   : Linux fanatic</br>
+│  <b>Status</b>    : Evolving in the shadows</br>
+│  <b>Target</b>    :  World-Class Level</br>
+│  <b>Nindô</b>     : Don't learn to hack, hack to learn</br>
+│  <b>whoami</b>   : Linux fanatic</br>
 └──────────────────────────────────┘</br>
 
    ## 👨‍💻 Who am I?
