@@ -1,15 +1,14 @@
 <br>
 <img src="./hello.jpeg" width="300">
 </br>
+┌──[ D4rkC4rl ]──[ 🐧 ]</br>
+│</br>
+│  Status       : Evolving in the shadows</br>
+│  Target      :  World-Class Level</br>
+│  Nindô       : Don't learn to hack, hack to learn</br>
+│  whoami   : Linux fanatic</br>
+└──────────────────────────────────┘</br>
 
-# I'm D4rkC4rl 
-- 🥷 Red Teamer
-- 🛡️ Blue Defender
-- 🏴 CTF Addict
-- 🐞 Bug  Hunter
-- 🇧🇯 #1 on TryHackMe
-- Stealth-driven. Ethically rooted
--  Tactically limitless.
    ## 👨‍💻 Who am I?
    A versatile tech enthusiast navigating the realms of cybersecurity and  development. Whether it's securing systems or         coding solutions, I thrive on solving puzzles no one else wants to touch.  
 
